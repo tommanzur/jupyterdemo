@@ -54,3 +54,4 @@ IPython
 Jinja2
 influxdb
 requests
+urlib3
